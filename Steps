@@ -1,0 +1,15 @@
+1. Create ec2 instance.
+
+2. Open Command Line in .pem folder
+
+3. use ssh -i "ubuntu.pem" ec2@command 
+
+4. java --version
+
+5. wget https://s3file.jar
+
+6. ls -lrt
+
+7. java -jar spring-boot-aws-exc.jar
+
+Now the file is running on ec2 instance.
